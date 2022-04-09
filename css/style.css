@@ -1,0 +1,27 @@
+.navBar{
+    background-color: lightgrey;
+}
+.navItem{
+    display: inline-block;
+    background-color: grey;
+    padding: 6px;
+}
+.left{
+    background-color: aqua;
+    height: 400px;
+    width: 29%;
+}
+.right{
+    background-color: rgb(25, 0, 253);
+    height: 400px;
+    width: 70%;
+    display: inline-block;
+}
+.leftTop{
+    background-color: orange;
+    height: 40%;
+}
+.leftBottom{
+    background-color: darkorange;
+    height: 60%;
+}
